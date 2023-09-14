@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source.cpp(14,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source.cpp(94,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Source1.cpp
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source1.cpp(139,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source1.cpp(141,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source1.cpp(143,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source1.cpp(152,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source1.cpp(154,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\Source1.cpp(156,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  proizvodnaya.vcxproj -> D:\study\forcpp\informatics\yaziki_i_metodi\cpp\proizvodnaya\x64\Debug\proizvodnaya.exe

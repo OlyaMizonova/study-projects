@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (14.02.23 yamp.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  14.02.23 yamp.vcxproj -> D:\study\forcpp\informatics\yaziki_i_metodi\cpp\Gauss_method\x64\Debug\metod_Gauss.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\study\forcpp\informatics\big_promlem(menu)\Source.cpp(113): warning C4715: binary_search_position: значение возвращается не при всех путях выполнения
+  big_promlem(menu).vcxproj -> D:\study\forcpp\informatics\big_promlem(menu)\x64\Debug\big_promlem(menu).exe

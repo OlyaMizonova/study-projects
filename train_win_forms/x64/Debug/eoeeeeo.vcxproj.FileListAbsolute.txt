@@ -1,0 +1,5 @@
+D:\study\forcpp\informatics\yaziki_i_metodi\eoeeeeo\x64\Debug\eoeeeeo.vcxproj.AssemblyReference.cache
+D:\study\forcpp\informatics\yaziki_i_metodi\eoeeeeo\x64\Debug\eoeeeeo.vcxproj.SuggestedBindingRedirects.cache
+D:\study\forcpp\informatics\yaziki_i_metodi\eoeeeeo\x64\Debug\eoeeeeo.MyForm.resources
+D:\study\forcpp\informatics\yaziki_i_metodi\eoeeeeo\x64\Debug\eoeeeeo.vcxproj.GenerateResource.cache
+D:\study\forcpp\informatics\yaziki_i_metodi\eoeeeeo\x64\Debug\eoeeeeo.exe

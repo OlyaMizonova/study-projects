@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\study\forcpp\informatics\yaziki_i_metodi\quadratic ecuation\Source.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Source1.cpp
+  Создание кода...
+  quadratic ecuation.vcxproj -> D:\study\forcpp\informatics\yaziki_i_metodi\quadratic ecuation\x64\Debug\quadratic ecuation.exe

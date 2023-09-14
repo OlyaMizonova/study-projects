@@ -1,0 +1,2 @@
+D:\study\forcpp\informatics\yaziki_i_metodi\Rational\Debug\Rational.exe
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\Rational\Debug\Rational.exe

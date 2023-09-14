@@ -1,0 +1,2 @@
+D:\study\forcpp\informatics\yaziki_i_metodi\C\vector_templates\x64\Debug\vector_templates.exe
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\vector_templates\x64\Debug\vector_templates.exe

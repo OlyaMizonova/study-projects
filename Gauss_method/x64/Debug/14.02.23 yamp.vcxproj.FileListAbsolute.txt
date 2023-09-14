@@ -1,0 +1,3 @@
+D:\study\forcpp\informatics\yaziki_i_metodi\14.02.23 yamp\x64\Debug\metod_Gauss.exe
+D:\study\forcpp\informatics\yaziki_i_metodi\Gauss_method\x64\Debug\metod_Gauss.exe
+D:\study\forcpp\informatics\yaziki_i_metodi\cpp\Gauss_method\x64\Debug\metod_Gauss.exe
